@@ -88,6 +88,15 @@ The list below describes the key files and their roles.
 └── workflow-orchestrator.js
 ```
 
+**EXAMPLES:**
+
+https://hitesh.ai/
+![alt text](https://github.com/sak2k-bio/cc-site-cloner/blob/670302cd8766f17d4ccdbdd24b7b1d6b8ac90e7a/cli_examples/hitesh_ai.png)
+https://www.piyushgarg.dev/
+![alt text](https://github.com/sak2k-bio/cc-site-cloner/blob/670302cd8766f17d4ccdbdd24b7b1d6b8ac90e7a/cli_examples/piyushgarg.dev.png)
+https://code.visualstudio.com/
+![alt text](https://github.com/sak2k-bio/cc-site-cloner/blob/670302cd8766f17d4ccdbdd24b7b1d6b8ac90e7a/cli_examples/vscode_landingpage.png)
+
 ## Contributing
 See `CONTRIBUTING.md`.
 
