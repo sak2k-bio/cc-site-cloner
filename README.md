@@ -4,7 +4,7 @@ CC-Site-Cloner is an intelligent command-line tool that uses the power of Google
 
 This project is more than just a scraper; it's an example of how LLMs can be used to automate complex, multi-step software engineering tasks.
 
-[!alt text](https://github.com/sak2k-bio/cc-site-cloner/blob/fa198b12edf555ed60e16cb033bc1be6927621c3/cli_examples/npm%20start.png)
+![alt text](https://github.com/sak2k-bio/cc-site-cloner/blob/fa198b12edf555ed60e16cb033bc1be6927621c3/cli_examples/npm%20start.png)
 
 ## Key Features
 - **Intelligent Cloning**: Fetches a website's HTML and assets, intelligently rewriting paths to work locally.
